@@ -1,0 +1,3 @@
+C:/Users/zero/Desktop/nbiot/cmake-build-debug/CMakeFiles/nbiot.elf.dir
+C:/Users/zero/Desktop/nbiot/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zero/Desktop/nbiot/cmake-build-debug/CMakeFiles/rebuild_cache.dir

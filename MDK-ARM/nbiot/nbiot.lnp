@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"nbiot\startup_stm32f103xe.o"
+"nbiot\main.o"
+"nbiot\gpio.o"
+"nbiot\tim.o"
+"nbiot\usart.o"
+"nbiot\stm32f1xx_it.o"
+"nbiot\stm32f1xx_hal_msp.o"
+"nbiot\bc35.o"
+"nbiot\stm32f1xx_hal_gpio_ex.o"
+"nbiot\stm32f1xx_hal_tim.o"
+"nbiot\stm32f1xx_hal_tim_ex.o"
+"nbiot\stm32f1xx_hal.o"
+"nbiot\stm32f1xx_hal_rcc.o"
+"nbiot\stm32f1xx_hal_rcc_ex.o"
+"nbiot\stm32f1xx_hal_gpio.o"
+"nbiot\stm32f1xx_hal_dma.o"
+"nbiot\stm32f1xx_hal_cortex.o"
+"nbiot\stm32f1xx_hal_pwr.o"
+"nbiot\stm32f1xx_hal_flash.o"
+"nbiot\stm32f1xx_hal_flash_ex.o"
+"nbiot\stm32f1xx_hal_exti.o"
+"nbiot\stm32f1xx_hal_uart.o"
+"nbiot\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "nbiot\nbiot.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "nbiot.map" -o nbiot\nbiot.axf

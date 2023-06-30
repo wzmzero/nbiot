@@ -1,0 +1,3 @@
+C:/Users/zero/Desktop/nbiot/cmake-build-debug-mingw-stm32/CMakeFiles/nbiot.elf.dir
+C:/Users/zero/Desktop/nbiot/cmake-build-debug-mingw-stm32/CMakeFiles/edit_cache.dir
+C:/Users/zero/Desktop/nbiot/cmake-build-debug-mingw-stm32/CMakeFiles/rebuild_cache.dir
